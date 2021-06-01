@@ -29,11 +29,6 @@ function Cards() {
                        text="Travel through the islands of bali in aprivate cruise"
                        label="Luxury"
                        path="/services" />
-                       <CardItem 
-                       src="./images/img-4.jpg"
-                       text="Travel through the islands of bali in aprivate cruise"
-                       label="Luxury"
-                       path="/services" />
                     </ul>
                     </div>
             </div>
